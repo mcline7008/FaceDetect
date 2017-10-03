@@ -1,2 +1,8 @@
 # FaceDetect
-Final project for graduate level machine learning course at Wright State University. Program will detect faces in images using a simple neural network approach.
+
+**Authors**
+-Matthew Cline
+-Tim Williams
+-Tori Williams
+
+Face Detect is a python program to detect faces in still images using a simple neural netwrok with backpropegation.
